@@ -1,4 +1,4 @@
-### Well hello there!
+# About my frist GitHub project
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
